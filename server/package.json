@@ -2,6 +2,7 @@
   "name": "server",
   "description": "",
   "version": "",
+  "type": "commonjs",
   "scripts": {
     "devStart": "nodemon server.js"
   },
